@@ -1,4 +1,4 @@
-%Alisa Zhang, Partner: Ryan Gatto BIOENG 1320 Project 1
+%Alisa Zhang, Ryan Gatto BIOENG 1320 Project 1
 clear
 clc
 
